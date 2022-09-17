@@ -1,0 +1,663 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_isalpha.o",
+      "srcs/ft_isalpha.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_isalpha.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_isalpha.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_isdigit.o",
+      "srcs/ft_isdigit.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_isdigit.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_isdigit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_isalnum.o",
+      "srcs/ft_isalnum.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_isalnum.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_isalnum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_isascii.o",
+      "srcs/ft_isascii.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_isascii.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_isascii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_isprint.o",
+      "srcs/ft_isprint.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_isprint.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_isprint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strlen.o",
+      "srcs/ft_strlen.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strlen.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_memset.o",
+      "srcs/ft_memset.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_memset.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_memset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_bzero.o",
+      "srcs/ft_bzero.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_bzero.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_bzero.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_memcpy.o",
+      "srcs/ft_memcpy.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_memcpy.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_memcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_memmove.o",
+      "srcs/ft_memmove.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_memmove.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_memmove.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strlcpy.o",
+      "srcs/ft_strlcpy.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strlcpy.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strlcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strlcat.o",
+      "srcs/ft_strlcat.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strlcat.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strlcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_toupper.o",
+      "srcs/ft_toupper.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_toupper.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_toupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_tolower.o",
+      "srcs/ft_tolower.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_tolower.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_tolower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strchr.o",
+      "srcs/ft_strchr.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strchr.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strrchr.o",
+      "srcs/ft_strrchr.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strrchr.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strrchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strncmp.o",
+      "srcs/ft_strncmp.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strncmp.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_memchr.o",
+      "srcs/ft_memchr.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_memchr.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_memchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_memcmp.o",
+      "srcs/ft_memcmp.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_memcmp.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_memcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strnstr.o",
+      "srcs/ft_strnstr.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strnstr.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strnstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_atoi.o",
+      "srcs/ft_atoi.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_atoi.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_atoi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_calloc.o",
+      "srcs/ft_calloc.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_calloc.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_calloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strdup.o",
+      "srcs/ft_strdup.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strdup.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strdup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_substr.o",
+      "srcs/ft_substr.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_substr.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_substr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strjoin.o",
+      "srcs/ft_strjoin.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strjoin.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strjoin.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strtrim.o",
+      "srcs/ft_strtrim.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strtrim.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strtrim.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_split.o",
+      "srcs/ft_split.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_split.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_split.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_itoa.o",
+      "srcs/ft_itoa.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_itoa.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_itoa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_strmapi.o",
+      "srcs/ft_strmapi.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_strmapi.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_strmapi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_striteri.o",
+      "srcs/ft_striteri.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_striteri.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_striteri.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_putchar_fd.o",
+      "srcs/ft_putchar_fd.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_putchar_fd.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_putchar_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_putstr_fd.o",
+      "srcs/ft_putstr_fd.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_putstr_fd.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_putstr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_putendl_fd.o",
+      "srcs/ft_putendl_fd.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_putendl_fd.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_putendl_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-I",
+      "includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "-o",
+      "srcs/ft_putnbr_fd.o",
+      "srcs/ft_putnbr_fd.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft/libft",
+    "file": "/Users/riceset/test/testlibft/libft/srcs/ft_putnbr_fd.c",
+    "output": "/Users/riceset/test/testlibft/libft/srcs/ft_putnbr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I",
+      "./includes",
+      "-I",
+      "./libft/includes",
+      "-c",
+      "-I",
+      "/usr/local/include",
+      "main.c"
+    ],
+    "directory": "/Users/riceset/test/testlibft",
+    "file": "/Users/riceset/test/testlibft/main.c"
+  }
+]
